@@ -1,6 +1,6 @@
 # Matheus Figueirêdo
 
-**Software engineer** from Campina Grande, Paraíba, Brazil.
+**Software engineer** from Brazil.
 
 I write code, read *Tolkien*, listen to *rock*, and love **French bulldogs**.
 
