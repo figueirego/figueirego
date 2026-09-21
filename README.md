@@ -1,7 +1,7 @@
 # Matheus Figueirêdo
 
-**Engenheiro de software** de Campina Grande, Paraíba.
+**Software engineer** from Campina Grande, Paraíba, Brazil.
 
-Escrevo código, leio *Tolkien*, escuto *rock* e amo **bulldogs franceses**.
+I write code, read *Tolkien*, listen to *rock*, and love **French bulldogs**.
 
-[LinkedIn](https://www.linkedin.com/in/jomatheusdev/) · [E-mail](mailto:jomatheusdev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jomatheusdev/) · [Email](mailto:jomatheusdev@gmail.com)
