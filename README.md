@@ -4,4 +4,4 @@
 
 I write code, read *Tolkien*, listen to *rock*, and love **French bulldogs**.
 
-[LinkedIn](https://www.linkedin.com/in/jomatheusdev/) · [Email](mailto:jomatheusdev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jomatheusdev/) · [Email](mailto:joaomatheustav@gmail.com)
